@@ -1,0 +1,52 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+	width: 140px;
+}
+
+.rowLogo{
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.rowNav{
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 20px;
+	border-top: 2px solid  #f5a9a7;
+/*	width: 400px;*/
+}
+
+li{
+	display: inline;
+	color:#58595b;
+	text-decoration: none;
+	/*padding: 0 22px 0 22px;*/
+}
+
+#gale{
+	padding: 0 72px 0 72px;
+}
+
+a{
+	text-decoration: none !important;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.active{
+	color:#f5a9a7;	
+}
+
+.background{
+	/*background-image: url(../images/background-01.png);*/
+	background-color: blue;
+	height: 100vh;
+}
